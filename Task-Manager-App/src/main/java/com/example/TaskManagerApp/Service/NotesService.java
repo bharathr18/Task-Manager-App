@@ -1,8 +1,12 @@
 package com.example.TaskManagerApp.Service;
 
+import com.example.TaskManagerApp.Model.NoteEntity;
+import com.example.TaskManagerApp.Model.TaskEntity;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 @Service
 public class NotesService {
