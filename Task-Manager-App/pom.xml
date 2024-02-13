@@ -23,6 +23,15 @@
 		</dependency>
 
 		<dependency>
+<<<<<<< HEAD
+=======
+			<groupId>org.modelmapper</groupId>
+			<artifactId>modelmapper</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+
+		<dependency>
+>>>>>>> 26235f1 (Initial commit)
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
